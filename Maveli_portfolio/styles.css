@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    } 
+    
+   
+
+.bg{
+    background-image: url('./boat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    
+}
+.heading{
+    background-color:#743f13;
+    padding: 25px;
+    
+}
+h1,h2,h3,h4,h5,h6,p,.x{
+    color:white;
+}
+
+.card,.card2{
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: #a98600;
+    border-color: aliceblue;
+    border-style: solid;
+    width:400px;
+    height: 150px;
+}
+
+.maveli{
+    float: top;
+display: inline-flex;
+height: 500px;
+padding: 0px 0px 0px 1000px;
+justify-content: flex-end;
+align-items: center;
+}
+
+footer{
+    margin: 150px 0px 0px 0px;
+    background-color: #743f13;
+    padding: 30px;
+    
+}
